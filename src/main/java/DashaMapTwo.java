@@ -1,4 +1,4 @@
-public class DashaMapTwo {
+public class DashaMapTwo implements HashMapX{
 
     private Node[] hashArray;
 
